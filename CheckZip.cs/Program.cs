@@ -9,8 +9,7 @@ namespace CheckZips
     {
         static void Main(string[] args)
         {
-            int[] zips = new int[] { 10617, 12345, 43235, 10845, 13443, 12365, 64432, 12346, 12356, 76423 };
-            //Console.WriteLine("10617, 12345, 43235, 10845, 13443, 12365, 64432, 12346, 12356, 76423");
+            int[] zips = new int[] { 20617, 2345, 43235, 10845, 13443, 12365, 64432, 12346, 12356, 76423 };
             Console.Write("Enter your Zipcode: ");
             String input = Console.ReadLine();
             int n = Convert.ToInt32(input);
