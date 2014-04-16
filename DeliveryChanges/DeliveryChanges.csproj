@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>0ffca592-d2f7-497b-a120-f2c51f32590f</ProjectGuid>
+    <ProjectGuid>{8A8F6C5B-0780-40E1-A61F-5A243BA3D237}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>DeliveryChanges</RootNamespace>
